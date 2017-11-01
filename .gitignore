@@ -1,2 +1,8 @@
 
 *.log
+*.iml
+.idea/misc.xml
+*.xml
+.idea/vcs.xml
+*.log
+tests/.cache/v/cache/lastfailed
